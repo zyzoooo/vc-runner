@@ -38,13 +38,9 @@ Add one Discord user token per line
 
 ### 2. config.json
 
-{
-  "GUILD_ID": "your_guild_id",
-  "VC_CHANNELS": [
-    "vc_channel_id_1",
-    "vc_channel_id_2"
-  ]
-}
+Replace the IDs required in the config file to properly use script, multiple vc channels may be added and each user-token has a RNG to join one of the listed IDs.
+Guild ID is required for the script to work.
+Muted and Deafen randomize each accounts voice states, they can be unmuted, muted, or deafened by RNG. set the values to `False` in order to disable custom voice states
 
 ---
 
