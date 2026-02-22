@@ -32,11 +32,7 @@ npm install axios ws
 
 ### 1. tokens.txt
 
-Add one Discord user token per line:
-
-token
-token
-token
+Add one Discord user token per line
 
 ---
 
