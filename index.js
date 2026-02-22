@@ -1,7 +1,7 @@
-import axios from 'axios';
-import fs from 'fs';
-import WebSocket from 'ws';
-import config from './config.json' with { type: 'json' };
+const axios = require('axios');
+const fs = require('fs');
+const WebSocket = require('ws');
+const config = require('./config.json');
 
 const filepath = './tokens.txt';
 
