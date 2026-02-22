@@ -89,3 +89,14 @@ The script will:
 ## Disclaimer
 
 This project uses user tokens. Misuse may result in account termination.
+
+---
+
+## Credits
+
+This project is a remake / modified version inspired by:
+https://github.com/00nx/discord-vc-spammer
+
+Original concept and foundation by 00nx.
+This version has been rewritten and adjusted with structural and functional changes.
+
