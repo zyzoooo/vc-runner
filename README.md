@@ -34,9 +34,9 @@ npm install axios ws
 
 Add one Discord user token per line:
 
-token_here
-token_here
-token_here
+token
+token
+token
 
 ---
 
